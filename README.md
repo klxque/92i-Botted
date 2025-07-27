@@ -45,7 +45,7 @@ Ajouter le Bot : https://discord.com/oauth2/authorize?client_id=1398275215200620
 
 ```bash
 git clone https://github.com/klxque/92i-Botted.git
-cd rank-bot
+cd 92i-Botted
 ```
 ### 2. Installer les dépendances
 
