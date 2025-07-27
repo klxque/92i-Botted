@@ -1,0 +1,11 @@
+{
+    "token": "TOKEN_DE_TON_BOT",
+    "clientId": "ID_DE_TON_BOT",
+    "color": "#ff0000",
+    "logo": "URL_VERS_TON_LOGO",
+    "text": "TON_TEXT_FOOTER",
+    "owner": "TON_ID",
+    "supportURL": "INVITATION_VERS_LE_SERVEUR_SUPPORT",
+    "supportId": "ID_DU_SERVEUR_SUPPORT",
+    "supportRoleId": "ID_DE_TON_ROLE_SUPPORT"
+}
